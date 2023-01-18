@@ -11,6 +11,9 @@ sudo apt autoremove -y
 
 #Remove obslete flatpak packages
 
+##to be added!!!
+
+#install nala
 
 
 # Update packages list
